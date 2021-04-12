@@ -1,1 +1,1 @@
-# KNN-LinearRegressionFrom-Scratch
+# KNN & LinearRegressionFrom-Scratch
