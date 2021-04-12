@@ -8,6 +8,6 @@
 * Function Compute Distance() compute the distance between sample and all other data and return the distance vector.
 * Function Fit() starts training the Model.
 ## Linear Regression
-*$$
+$$
 h(X, \theta) = X^T . \theta
 $$
